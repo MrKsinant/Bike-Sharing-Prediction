@@ -1,6 +1,6 @@
 # Bike-Sharing-Prediction
 
-This study corresponds to the first project of Nanodegree *Deep Learning* schooled by **Udacity, Inc.** (https://eu.udacity.com), a for-profit educational organization offering massive open online courses.
+This study corresponds to the first project of the nanodegree *Deep Learning*, schooled by **Udacity, Inc.** (https://eu.udacity.com), a for-profit educational organization offering massive open online courses.
 
 Its goal is to build a simple neural network from scratch and use it to predict daily bike rental ridership. Here, the core data set is related to the two-year historical log corresponding to years 2011 and 2012 from **Capital Bikeshare system** (Washington D.C., USA), which is publicly available at http://capitalbikeshare.com/system-data.
 
